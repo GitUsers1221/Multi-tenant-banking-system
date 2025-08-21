@@ -44,7 +44,9 @@ node index.js
 
 Open frontend/index.html in your browser.
 
-📂 Project Structure
+## 📂 Project Structure  
+
+```plaintext
 Multi-tenant-banking-system/
 │── backend/           # Node.js backend
 │   ├── controllers/   # Business logic
@@ -58,8 +60,9 @@ Multi-tenant-banking-system/
 │   ├── script.js
 │   └── styles.css
 │
-│── backfront.sql      # Mysql Database 
+│── backfront.sql      # MySQL Database
 │── README.md          # Project documentation
+```
 
 🛠️ Tech Stack
 
